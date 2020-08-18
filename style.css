@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about {
+    width: 50%;
+    border: 2px solid blue;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.projects {
+    width: 50%;
+    border: 2px solid red;
+    margin: auto;
+}
+
+ul {
+    max-width: 60%;
+    margin-left: auto;
+}
+
+li {
+    max-width: 100px;
+}
